@@ -1,3 +1,3 @@
 *RETROFIT*
 
-GitAPI implemenntada -- torna la llista de respositoris Nom + ID
+GitAPI implementada -- torna la llista de respositoris Nom + ID
